@@ -1,16 +1,14 @@
-### Hi there 👋
+## 𝐇𝐞𝐥𝐥𝐨, I'm Abdulkadir ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**abdulkadir90/abdulkadir90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdulkadir-semiz-828779150/)
+[<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](http://abdulkadirsemiz.epizy.com/)
 
-Here are some ideas to get you started:
+ <img align="right" src="https://github.com/abdulkadir90/abdulkadir90/blob/main/Nice%20GIF-source.gif" width="450" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓  I'm a Computer Engineering Undergraduate at Istanbul University
+
+- ⚡ I have an interest in game development for a year.
+
+
+- 💬 I am doing my best.
+
