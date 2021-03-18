@@ -12,3 +12,4 @@
 
 - 💬 I am doing my best.
 
+- 💬 Download my cv [here](https://github.com/greyhavvk/greyhavvk/blob/main/AbdulkadirSemiz.pdf)
