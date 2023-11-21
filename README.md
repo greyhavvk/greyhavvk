@@ -5,11 +5,12 @@
 
  <img align="right" src="https://github.com/abdulkadir90/abdulkadir90/blob/main/Nice%20GIF-downsized.gif" width="450" />
 
-- 🎓  I'm a Computer Engineering Undergraduate at Istanbul University
-
-- ⚡ I have an interest in game development for a year.
-
-
-- 💬 I am doing my best.
+Hello! 
+- 👋  I'm Abdulkadir Semiz, a game developer, and a passionate gamer. 
+- 🎓  I graduated from Istanbul University with a degree in Computer Engineering in 2021. 
+- 👔  I have gained experience in game development for over 2 years and have been involved in the development of games such as "Drop Weight" and "Smash Runner." 
+- 🚀  Continuing to improve myself as a game developer, prioritizing professional ethics in my career, and always maintaining politeness are important principles for me. 
+- 📧  Feel free to reach out to me at abdulkadirsemiz@outlook.com to discuss potential collaborations or opportunities further. 
+- 🙏  Thank you for considering my profile.
 
 - 💬 Download my cv [here](https://github.com/greyhavvk/greyhavvk/blob/main/AbdulkadirSemizResume.pdf)
