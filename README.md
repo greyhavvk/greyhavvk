@@ -11,6 +11,6 @@ Hello!
 - 👔  I have gained experience in game development for over 2 years and have been involved in the development of games such as "Drop Weight" and "Smash Runner." 
 - 🚀  Continuing to improve myself as a game developer, prioritizing professional ethics in my career, and always maintaining politeness are important principles for me. 
 - 📧  Feel free to reach out to me at abdulkadirsemiz@outlook.com to discuss potential collaborations or opportunities further. 
-- 🙏  Thank you for considering my profile.
+- 🙏  To help me improve, please provide your evaluations and feedback.
 
 - 💬 Download my cv [here](https://github.com/greyhavvk/greyhavvk/blob/main/AbdulkadirSemizResume.pdf)
